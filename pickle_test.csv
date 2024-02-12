@@ -1,0 +1,3 @@
+day,month,year,Temperature,RH,Ws,Rain,FFMC,DMC,DC,ISI,BUI,FWI,Region,Classes_fire,Classes_not_fire
+28,10,2016,8,57,18,1.5,68.7,3.4,7.6,1.3,3.4,0.9,0,0.0,1.0
+24,9,2013,29,61,13,1.3,64.4,4.1,7.6,1,3.9,1.5,0,1.0,0.0
